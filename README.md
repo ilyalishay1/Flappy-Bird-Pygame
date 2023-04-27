@@ -1,2 +1,2 @@
 # Flappy-Bird-Pygame
-Flappy bird game written with pygame.
+Flappy bird game written with pygame
